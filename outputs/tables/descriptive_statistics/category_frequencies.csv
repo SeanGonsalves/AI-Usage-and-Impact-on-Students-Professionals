@@ -1,0 +1,22 @@
+variable,category,count,percent
+User_Type,Student,151,52.4
+User_Type,Professional,137,47.6
+AI_Purpose,Coding,65,23.6
+AI_Purpose,Writing,49,17.8
+AI_Purpose,Studying,39,14.2
+AI_Purpose,Research,38,13.8
+AI_Purpose,Content Creation,28,10.2
+AI_Purpose,Data Analysis,25,9.1
+AI_Purpose,Customer Support,20,7.3
+AI_Purpose,Office Work,11,4.0
+AI_Tool,ChatGPT,119,42.8
+AI_Tool,Google Gemini,39,14.0
+AI_Tool,Microsoft Copilot,33,11.9
+AI_Tool,Claude,31,11.2
+AI_Tool,Perplexity AI,23,8.3
+AI_Tool,Grammarly,14,5.0
+AI_Tool,Meta AI,10,3.6
+AI_Tool,DeepSeek,9,3.2
+Would_Recommend,Yes,170,60.1
+Would_Recommend,No,71,25.1
+Would_Recommend,Maybe,42,14.8

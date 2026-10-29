@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy
+matplotlib>=3.10
+openpyxl
+reportlab

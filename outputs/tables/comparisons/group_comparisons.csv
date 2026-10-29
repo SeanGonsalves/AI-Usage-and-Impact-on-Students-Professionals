@@ -1,0 +1,5 @@
+measure,student_n,professional_n,student_median,professional_median,p_value,adjusted_p_value
+AI_Usage_Hours_Per_Day,146,135,2.0,2.1,0.8180624117733023,0.8180624117733023
+Time_Saved_Hours_Per_Week,148,130,4.95,5.15,0.5663470814608793,0.8180624117733023
+Productivity_Score,143,131,4.9,5.1,0.5399342138282481,0.8180624117733023
+Satisfaction_Score,150,131,6.0,6.0,0.6796205551313457,0.8180624117733023
